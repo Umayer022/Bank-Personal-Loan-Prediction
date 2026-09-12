@@ -2,6 +2,8 @@
 
 **Live Demo:** [Bank Personal Loan Prediction App](https://bank-personal-loan-prediction-xjkx4ytn9swhwdmmsqxa9m.streamlit.app/)
 
+**Google Colab Notebook:** [Open Notebook](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/Bank_Personal_Loan_Prediction.ipynb)
+
 ## Files
 - app.py
 - logistic_regression_model.pkl
