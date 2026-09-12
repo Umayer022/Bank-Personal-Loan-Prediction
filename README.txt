@@ -1,5 +1,7 @@
 # Bank Personal Loan Prediction - Streamlit App
 
+**Live Demo:** [Bank Personal Loan Prediction App](https://bank-personal-loan-prediction-xjkx4ytn9swhwdmmsqxa9m.streamlit.app/)
+
 ## Files
 - app.py
 - logistic_regression_model.pkl
